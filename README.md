@@ -1,5 +1,8 @@
 ### Hi there 👋, I am Danilo Andrade
 
+[![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+
+
 - 🔭 I’m currently working on [Código Agro](http://codigoagro.com/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
