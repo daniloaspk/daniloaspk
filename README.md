@@ -14,6 +14,8 @@
 
 ### Connect With Me
 
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media" />][website]
+
 
 <!--
 **daniloaspk/daniloaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
