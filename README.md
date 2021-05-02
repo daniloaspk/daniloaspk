@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Danilo Andrade
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0UymNZAzHWkoyTyAgc0lgg)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloandradesantos/)
 
 - 🔭 I’m currently working on [Código Agro](http://codigoagro.com/)
 - 🌱 I’m currently learning ...
