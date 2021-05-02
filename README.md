@@ -14,7 +14,11 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media"/>][website]
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/website.png?alt=media"/>][website]
+
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/linkedin.png?alt=media"/>][linkedin]
+
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media"/>][instagram]
 
 
 <!--
@@ -35,3 +39,5 @@ Here are some ideas to get you started:
 
 
 [website]: https://daniloas.com
+[linkedin]: https://www.linkedin.com/in/daniloandradesantos/
+[instagram]: https://www.instagram.com/danilo.freelancer/
