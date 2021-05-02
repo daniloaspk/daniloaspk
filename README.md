@@ -14,7 +14,7 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media" />][website]
+<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media"/>[website]
 
 
 <!--
