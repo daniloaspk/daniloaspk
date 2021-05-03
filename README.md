@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloandradesantos/)
 
-👨‍🎓Eu sou formado em Agronomia 🌾, fiz também um Mestrado e um Doutorado em Produção Vegetal 🌱 e uma especialização em Agroecologia 🌳🥕🌲🌍. Estas experiência me ajudaram e ajudam muito durante a resolução de problemas.
+👨‍🎓I am graduated in Agronomy 🌾, I also did a Master and a Doctorate in Plant Production 🌱 and a specialization in Agroecology 🌳🥕🌲🌍. These experiences helped me and help a lot during problem solving.
 
 - 🔭 I'm currently working on side project [Código Agro](http://codigoagro.com/)
 - 👨‍🎓 I'm currently Postdoctoral grant in soil fertility studies🌱
