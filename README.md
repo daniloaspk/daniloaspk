@@ -2,11 +2,13 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloandradesantos/)
 
-- 🔭 I’m currently working on [Código Agro](http://codigoagro.com/)
+👨‍🎓Eu sou formado em Agronomia 🌾, fiz também um Mestrado e um Doutorado em Produção Vegetal 🌱 e uma especialização em Agroecologia 🌳🥕🌲🌍. Estas experiência me ajudaram e ajudam muito durante a resolução de problemas.
+
+- 🔭 I'm currently working on side project [Código Agro](http://codigoagro.com/)
+- 👨‍🎓 I'm currently Postdoctoral grant in soil fertility studies🌱
 - 🌱 I’m currently learning english, flutter and copywriting
 - 💬 Ask me about data analisys with R 📈
 - ⚡ Fun fact: I love solve problems 🧩
-
 
 ### Connect With Me
 
