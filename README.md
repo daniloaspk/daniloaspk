@@ -2,6 +2,8 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloandradesantos/)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY-3XHPJ3T9i21Vb76_DG3A?logo=Danilo%20Andrade&style=social)
+
 👨‍🎓I am graduated in Agronomy 🌾, I also did a Master and a Doctorate in Plant Production 🌱 and a specialization in Agroecology 🌳🥕🌲🌍. These experiences helped me and help a lot during problem solving.
 
 - 🔭 I'm currently working on side project [Código Agro](http://codigoagro.com/)
