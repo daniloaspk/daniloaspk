@@ -20,12 +20,16 @@
 [<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media"/>][instagram]
 
 
+<br />
+<br />
+
 ### Languages
 
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
 
-
+<br />
+<br />
 
 <!--
 **daniloaspk/daniloaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
