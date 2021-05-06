@@ -33,6 +33,8 @@
 
 <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 
+<img align="left" alt=“Flask” width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
+
 <br />
 <br />
 
