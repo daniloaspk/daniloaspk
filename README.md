@@ -29,6 +29,10 @@
 
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 
+<img align="left" alt=“R” width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
+
+<img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+
 <br />
 <br />
 
