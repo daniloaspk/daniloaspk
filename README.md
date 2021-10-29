@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 [website]: https://daniloas.com
 [linkedin]: https://www.linkedin.com/in/daniloandradesantos/
-[instagram]: https://www.instagram.com/danilo.freelancer/
+[instagram]: https://www.instagram.com/danilo.com_/
