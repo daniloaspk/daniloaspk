@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on side project [Código Agro](http://codigoagro.com/)
 - 👨‍🎓 I'm currently Postdoctoral grant in soil fertility studies🌱
-- 🌱 I’m currently learning english, flutter and copywriting
+- 🌱 I’m currently learning jiu-jitsu, flutter and copywriting
 - 💬 Ask me about data analisys with R 📈
 - ⚡ Fun fact: I love solve problems 🧩
 
