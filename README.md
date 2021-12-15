@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Danilo Andrade
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloandradesantos/)
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 👨‍🎓I am graduated in Agronomy 🌾, I also did a Master and a Doctorate in Plant Production 🌱 and a specialization in Agroecology 🌳🥕🌲🌍. These experiences helped me and help a lot during problem solving.
 
