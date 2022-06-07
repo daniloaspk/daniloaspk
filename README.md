@@ -6,10 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaspk&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-
+<div align="center">
 [![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
 [![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-
+</div>
 
 
 - I am graduated in Agronomy 👨‍🎓🌾
