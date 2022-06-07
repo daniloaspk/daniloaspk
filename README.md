@@ -3,7 +3,8 @@
 
 [![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
 [![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Youtube2](https://img.shields.io/static/v1?label=DaniloAgro&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+
+[![Youtube](https://img.shields.io/static/v1?label=CódigoAgro&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube2]
 
 - I am graduated in Agronomy 👨‍🎓🌾
 - I also did a Master and a Doctorate in Plant Production 🌱 
