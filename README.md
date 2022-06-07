@@ -1,17 +1,14 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
+[![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
+[![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+
 <div align="center">
   <a href="https://github.com/daniloaspk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloaspk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaspk&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-<div align="center">
-[![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
-[![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-</div>
-
-
 - I am graduated in Agronomy 👨‍🎓🌾
 - I also did a Master and a Doctorate in Plant Production 🌱 
 - and a specialization in Agroecology 🌳🥕🌲🌍. 
