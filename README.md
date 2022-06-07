@@ -14,6 +14,7 @@
 These experiences helped me and help a lot during problem solving.
 
 - 🔭 I'm currently working on side project [Código Agro](http://codigoagro.com/)
+
 [![Youtube](https://img.shields.io/static/v1?label=CódigoAgro&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube2]
 
 - 👨‍🎓 I'm currently Postdoctoral grant in soil fertility studies🌱
