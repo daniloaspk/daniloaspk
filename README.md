@@ -1,10 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
-<div align="center">
-  [![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
+[![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
 [![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-</div>
-
 
 
 <div align="center">
@@ -13,6 +10,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaspk&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
+
+<br />
+<br />
+
+# Languages and tools
+
+<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+
+<img align="left" alt=“R” width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
+
+<img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+
+<img align="left" alt=“Flask” width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
+
+<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt=“Github” width="26px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/streamlit.svg" />
+
+<br />
+<br />
 
 # About me
 
@@ -31,7 +50,7 @@ These experiences helped me and help a lot during problem solving.
 - 💬 Ask me about data analisys with R 📈
 - ⚡ Fun fact: I love solve problems 🧩
 
-### Connect With Me
+# Connect With Me
 
 [<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/website.png?alt=media"/>][website]
 
@@ -40,27 +59,6 @@ These experiences helped me and help a lot during problem solving.
 [<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media"/>][instagram]
 
 
-<br />
-<br />
-
-### Languages and tools
-
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-
-<img align="left" alt=“R” width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
-
-<img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-
-<img align="left" alt=“Flask” width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
-
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt=“Github” width="26px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/streamlit.svg" />
-
-<br />
-<br />
 
 <!--
 **daniloaspk/daniloaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
