@@ -10,7 +10,8 @@
   </a>
 </div>
 
-  
+# About me
+
 - I am graduated in Agronomy 👨‍🎓🌾
 - I also did a Master and a Doctorate in Plant Production 🌱 
 - and a specialization in Agroecology 🌳🥕🌲🌍. 
