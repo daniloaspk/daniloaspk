@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Danilo Andrade
 <div align="center">
   <a href="https://github.com/daniloaspk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloaspk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaspk&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloaspk&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaspk&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 
