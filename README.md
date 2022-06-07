@@ -4,6 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniloandradesantos/)
 [![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCY-3XHPJ3T9i21Vb76_DG3A?style=plastic)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 - I am graduated in Agronomy 👨‍🎓🌾
 - I also did a Master and a Doctorate in Plant Production 🌱 
