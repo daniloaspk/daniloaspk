@@ -42,6 +42,10 @@ These experiences helped me and help a lot during problem solving.
 
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<img align="left" alt=“R” width="26px" src="[https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg](https://github.com/simple-icons/simple-icons/blob/master/icons/streamlit.svg)" />
+
+
+
 <br />
 <br />
 
