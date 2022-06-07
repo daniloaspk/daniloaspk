@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Snake animation](https://github.com/daniloaspk/daniloaspk/blob/output/github-contribution-grid-snake.svg)
 
 
 [website]: https://daniloas.com
