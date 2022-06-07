@@ -28,7 +28,7 @@ These experiences helped me and help a lot during problem solving.
 <br />
 <br />
 
-### Languages
+### Languages and tools
 
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 
@@ -39,6 +39,8 @@ These experiences helped me and help a lot during problem solving.
 <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 
 <img align="left" alt=“Flask” width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
+
+<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
