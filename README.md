@@ -1,5 +1,11 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
+<!-- <p align="center">
+Solving problems shakes my ideas, I confess🧩.
+
+I’m an Agronomist 🌾, I took advantage of the world of food production science and ventured into a Master’s and Doctorate course in Plant Production 🌱, and also a specialization in Agroecology 🌳🥕🌲🌍.
+</p>   -->
+
 [![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
 [![Youtube](https://img.shields.io/static/v1?label=DaniloAndrade&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
