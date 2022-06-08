@@ -24,11 +24,12 @@ I’m very curious and I’m always studying or practicing something that involv
   </a>
 </div>
 
+<br />
+
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniloaspk&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<br />
 <br />
 
 # Languages and tools
