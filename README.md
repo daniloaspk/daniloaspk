@@ -24,13 +24,17 @@
 
 <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 
+<img align="left" alt=“Streamlit” width="26px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/streamlit.svg" />
+
 <img align="left" alt=“Flask” width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
 
 <img align="left" alt=“VisualStudio” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt=“RSutdio” width="36px" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
+<img align="left" alt=“RSutdio” width="46px" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
 
-<img align="left" alt=“Streamlit” width="26px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/streamlit.svg" />
+<img align="left" alt=“Pycharm” width="46px" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" />
+
+
 
 <br />
 <br />
