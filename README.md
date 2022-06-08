@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniloaspk)](https://git.io/streak-stats)
+
 <p align="center">
 Solving problems shakes my ideas, I confess🧩.
 </p>
