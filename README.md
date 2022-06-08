@@ -24,7 +24,7 @@
 
 <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 
-<img align="left" alt=“Streamlit” width="26px" src="https://github.com/simple-icons/simple-icons/blob/master/icons/streamlit.svg" />
+<img align="left" alt=“Streamlit” width="26px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 
 <img align="left" alt=“Flask” width="26px" src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" />
 
