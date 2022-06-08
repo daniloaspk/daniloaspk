@@ -32,7 +32,7 @@
 
 <img align="left" alt=“RSutdio” width="66px" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
 
-<img align="left" alt=“Pycharm” width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
+<img align="left" alt=“Pycharm” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 
 
 
