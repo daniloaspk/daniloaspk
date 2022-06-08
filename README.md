@@ -30,9 +30,9 @@
 
 <img align="left" alt=“VisualStudio” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt=“RSutdio” width="46px" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
+<img align="left" alt=“RSutdio” width="66px" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
 
-<img align="left" alt=“Pycharm” width="46px" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" />
+<img align="left" alt=“Pycharm” width="66px" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" />
 
 
 
