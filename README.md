@@ -80,6 +80,6 @@ Here are some ideas to get you started:
 
 [website]: https://daniloas.com
 [linkedin]: https://www.linkedin.com/in/daniloandradesantos/
-[instagram]: https://www.instagram.com/danilo.com_/
+[instagram]: https://www.instagram.com/daniloas.com_/
 [youtube]: https://www.youtube.com/channel/UCY-3XHPJ3T9i21Vb76_DG3A
 [youtube2]: https://www.youtube.com/channel/UC0UymNZAzHWkoyTyAgc0lgg
