@@ -25,8 +25,8 @@ I’m very curious and I’m always studying or practicing something that involv
 </div>
 
 <p align = "center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniloaspk)](https://git.io/streak-stats)]
-</p> 
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniloaspk&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 
 <br />
 <br />
