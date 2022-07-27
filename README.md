@@ -50,10 +50,10 @@ I’m very curious and I’m always studying or practicing something that involv
 # About me
 
 - 🧩 Problem Solver
-- 👨‍💻 Programmer 
-- 👨‍🌾 Agronomist
 - 👨‍🔬 Scientific Researcher in Plant Production
+- 👨‍🌾 Agronomist
 - 📊 Data Scientist
+- 👨‍💻 Programmer
 - 👨‍🏫 Tutor in Data Analysis, Agricultural Soil and Plant Physiology 
 - 🎲 Strategist
 - 📝 Copywriter and Blogger
