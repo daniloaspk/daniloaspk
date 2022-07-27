@@ -49,9 +49,14 @@ I’m very curious and I’m always studying or practicing something that involv
 
 # About me
 
-- I am graduated in Agronomy 👨‍🎓🌾
-- I also did a Master and a Doctorate in Plant Production 🌱 
-- and a specialization in Agroecology 🌳🥕🌲🌍. 
+- 🧩 Problem Solver
+- 👨‍💻 Programmer 
+- 👨‍🌾 Agronomist
+- 👨‍🔬 Scientific Researcher in Plant Production
+- 📊 Data Scientist
+- 👨‍🏫 Tutor in Data Analysis, Agricultural Soil and Plant Physiology 
+- 🎲 Strategist 
+
 
 These experiences helped me and help a lot during problem solving.
 
