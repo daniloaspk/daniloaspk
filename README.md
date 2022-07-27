@@ -55,7 +55,8 @@ I’m very curious and I’m always studying or practicing something that involv
 - 👨‍🔬 Scientific Researcher in Plant Production
 - 📊 Data Scientist
 - 👨‍🏫 Tutor in Data Analysis, Agricultural Soil and Plant Physiology 
-- 🎲 Strategist 
+- 🎲 Strategist
+- 📝 Copywriter and Blogger
 
 
 These experiences helped me and help a lot during problem solving.
