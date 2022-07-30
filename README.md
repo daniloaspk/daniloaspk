@@ -18,9 +18,9 @@ I’m very curious and I’m always studying or practicing something that involv
 
 
 <div align="center">
-  <a href="https://github.com/danilodotcom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilodotcom&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodotcom&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/daniloasdotcom">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloasdotcom&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloasdotcom&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
 
