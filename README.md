@@ -18,7 +18,7 @@ I’m very curious and I’m always studying or practicing something that involv
 
 
 <div align="center">
-  <a href="https://github.com/daniloaspk">
+  <a href="https://github.com/danilodotcom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloaspk&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaspk&layout=compact&langs_count=7&theme=merko"/>
   </a>
@@ -81,7 +81,7 @@ These experiences helped me and help a lot during problem solving.
 
 
 <!--
-**daniloaspk/daniloaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danilodotcom/daniloaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
