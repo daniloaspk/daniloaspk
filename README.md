@@ -72,16 +72,16 @@ These experiences helped me and help a lot during problem solving.
 
 # Connect With Me
 
-[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/website.png?alt=media"/>][website]
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloasdotcom/daniloasdotcom/blob/main/images/website.png?alt=media"/>][website]
 
-[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/linkedin.png?alt=media"/>][linkedin]
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloasdotcom/daniloasdotcom/blob/main/images/linkedin.png?alt=media"/>][linkedin]
 
-[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloaspk/daniloaspk/blob/main/images/instagram.png?alt=media"/>][instagram]
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloasdotcom/daniloasdotcom/blob/main/images/instagram.png?alt=media"/>][instagram]
 
 
 
 <!--
-**danilodotcom/daniloaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
