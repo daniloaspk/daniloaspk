@@ -65,11 +65,15 @@ I’m very curious and I’m always studying or practicing something that involv
 
 These experiences helped me and help a lot during problem solving.
 
-- 🔭 I'm currently working on side project [Código Agro](http://codigoagro.com/)
+- 🔭 I'm currently working on scientific research on [biochars](https://share.streamlit.io/daniloasdotcom/biocharscience/main/app.py)
+- 🔭 And in the following side projects:
+  - 🖥[Código Agro](https://codigoagro.com/)
+  - 📊[Dados Agro](https://dadosagro.com/)
+  - 📲[Calagem App](https://calagemapp.com/)
+  - 👨‍🔬[BioChemistry for Agronomists and Biologists](https://daniloasdotcom.github.io/bioquimica/)
 
 [![Youtube](https://img.shields.io/static/v1?label=CódigoAgro&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube2]
 
-- 👨‍🎓 I'm currently Postdoctoral grant in soil fertility studies🌱
 - 🌱 I'm currently learning jiu-jitsu, flutter and copywriting
 - 💬 Ask me about data analisys with R 📈
 - ⚡ Fun fact: I love solve problems 🧩
