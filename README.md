@@ -58,7 +58,7 @@ I’m very curious and I’m always studying or practicing something that involv
   - 🧮Data Analysis (Data Science and Applied statistics)
   - 🌍Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
   - 🌾Plant Physiology and Plant Nutrition
-  - 🧬Biochemistry🧬
+  - 🧬Biochemistry
 - 🎲 Strategist
 - 📝 Copywriter and Blogger
 
