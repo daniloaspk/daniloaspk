@@ -54,8 +54,11 @@ I’m very curious and I’m always studying or practicing something that involv
 - 👨‍🌾 Agronomist
 - 📊 Data Scientist
 - 👨‍💻 Programmer
-- 👨‍🏫 Tutor in Data Analysis, Agricultural Soil and Plant Physiology 
-  - Data Analysis
+- 👨‍🏫 Tutor in: 
+  - 🧮Data Analysis (Data Science and Applied statistics)
+  - 🌍Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
+  - 🌾Plant Physiology and Plant Nutrition
+  - 🧬Biochemistry🧬
 - 🎲 Strategist
 - 📝 Copywriter and Blogger
 
