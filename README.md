@@ -86,7 +86,7 @@ These experiences helped me and help a lot during problem solving.
 
 [<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloasdotcom/daniloasdotcom/blob/main/images/instagram.png?alt=media"/>][instagram]
 
-
+[<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloasdotcom/daniloasdotcom/blob/main/images/researchgate.png?alt=media"/>][researchgate]
 
 <!--
 **daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -109,5 +109,6 @@ Here are some ideas to get you started:
 [website]: https://daniloas.com
 [linkedin]: https://www.linkedin.com/in/daniloandradesantos/
 [instagram]: https://www.instagram.com/daniloas.com_/
+[researchgate]: https://www.researchgate.net/profile/Danilo-Andrade-Santos
 [youtube]: https://www.youtube.com/channel/UCY-3XHPJ3T9i21Vb76_DG3A
 [youtube2]: https://www.youtube.com/channel/UC0UymNZAzHWkoyTyAgc0lgg
