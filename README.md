@@ -55,6 +55,7 @@ I’m very curious and I’m always studying or practicing something that involv
 - 📊 Data Scientist
 - 👨‍💻 Programmer
 - 👨‍🏫 Tutor in Data Analysis, Agricultural Soil and Plant Physiology 
+  - Data Analysis
 - 🎲 Strategist
 - 📝 Copywriter and Blogger
 
